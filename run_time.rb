@@ -1,4 +1,4 @@
-require './time_service'
+require './time'
 
 class RunTime
 
